@@ -12,9 +12,9 @@ using namespace std;
 class President {
 private:
 	Course* aCourse;
-	Transcript* aTranscript;
+	
 	DeansOffice* TheDeansOffice;
-	list <Student*> Cheaters;
+	
 
 
 public:
