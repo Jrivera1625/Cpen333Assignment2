@@ -1,0 +1,3 @@
+﻿  UnitTest.cpp
+C:\Users\jrive\Downloads\Assignment2-FINAL\Assignment2\Assignment2\admissionsAdmin.h(56): warning C4715:  'AdmissionsAdmin::ReviewPreferences': not all control paths return a value
+  UnitTest.vcxproj -> C:\Users\jrive\Downloads\Assignment2-FINAL\Assignment2\x64\Debug\UnitTest.dll
