@@ -10,7 +10,7 @@ using namespace std;
 
 class Transcript {
 private:
-	int AdmissionAverage;
+	int Average;
 
 public:
 	list<string> CoursesPassed;
@@ -19,8 +19,8 @@ public:
 
 	// get student's admission average
 	int GetStudentAverage() {
-		cout << "Student average is " << AdmissionAverage << endl;
-		return AdmissionAverage;
+		cout << "Student average is " << Average << endl;
+		return Average;
 	}
 
 	// check if student has pre-reqs for course
@@ -45,7 +45,7 @@ public:
 
 	Transcript(int average) {
 		// initialize class attributes
-		AdmissionAverage = average;
+		Average = average;
 		CoursesPassed = { "Elec211","Elec301" };
 		incidents = {};
 		cout << "Transcript default Constructor being called..." << endl;

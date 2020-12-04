@@ -1,3 +1,5 @@
-﻿  UnitTest.cpp
-C:\Users\jrive\Downloads\Assignment2-FINAL\Assignment2\Assignment2\admissionsAdmin.h(56): warning C4715:  'AdmissionsAdmin::ReviewPreferences': not all control paths return a value
-  UnitTest.vcxproj -> C:\Users\jrive\Downloads\Assignment2-FINAL\Assignment2\x64\Debug\UnitTest.dll
+﻿  pch.cpp
+  UnitTest.cpp
+C:\Users\Emilie\Documents\CPEN 333\Cpen333Assignment2\Assignment2\Assignment2\admissionsAdmin.h(56): warning C4715: 'AdmissionsAdmin::ReviewPreferences': not all control paths return a value
+     Creating library C:\Users\Emilie\Documents\CPEN 333\Cpen333Assignment2\Assignment2\x64\Debug\UnitTest.lib and object C:\Users\Emilie\Documents\CPEN 333\Cpen333Assignment2\Assignment2\x64\Debug\UnitTest.exp
+  UnitTest.vcxproj -> C:\Users\Emilie\Documents\CPEN 333\Cpen333Assignment2\Assignment2\x64\Debug\UnitTest.dll

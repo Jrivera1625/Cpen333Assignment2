@@ -1,6 +1,6 @@
 ﻿  admissionsAdmin.h
   main.cpp
   Generating Code...
-C:\Users\jrive\Downloads\Assignment2-FINAL\Assignment2\Assignment2\admissionsAdmin.h(56): warning C4715:  'AdmissionsAdmin::ReviewPreferences': not all control paths return a value
-C:\Users\jrive\Downloads\Assignment2-FINAL\Assignment2\Assignment2\Admin.h(43): warning C4715:  'Admin::ReviewGraduationRequest': not all control paths return a value
-  Assignment2.vcxproj -> C:\Users\jrive\Downloads\Assignment2-FINAL\Assignment2\x64\Debug\Assignment2.exe
+C:\Users\Emilie\Documents\CPEN 333\Cpen333Assignment2\Assignment2\Assignment2\admissionsAdmin.h(56): warning C4715: 'AdmissionsAdmin::ReviewPreferences': not all control paths return a value
+C:\Users\Emilie\Documents\CPEN 333\Cpen333Assignment2\Assignment2\Assignment2\Admin.h(43): warning C4715: 'Admin::ReviewGraduationRequest': not all control paths return a value
+  Assignment2.vcxproj -> C:\Users\Emilie\Documents\CPEN 333\Cpen333Assignment2\Assignment2\x64\Debug\Assignment2.exe

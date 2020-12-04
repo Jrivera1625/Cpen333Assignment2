@@ -27,13 +27,6 @@ public:
 	ProgramPreferenceForm* programPreferenceForm; // each student has a programPreferenceForm
 	bool graduationStatus;
 
-	void RequestFormCompletion() {
-		cout << "Form completion requested" << endl;
-
-	}
-	void InformStudentsOfProgramAssignment(string Program){
-		cout << "Student Assigned to " << Program << " program" << endl;
-	}
 	bool CheckProgram() {
 		if (Program == "Elec") {
 			return true;
